@@ -1,0 +1,30 @@
+{
+    "name": "imagelay",
+    "title": "Imagelay jQuery Plugin",
+    "description": "Simple plugin to show single image in overlay",
+    "keywords": [
+        "image",
+        "overlay",
+        "html"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Hakan Huriyet",
+        "url": "https://github.com/babazulu35"
+    },
+    "maintainers": [{
+        "name": "Hakan Huriyet",
+        "email": "hurriyet@fastmail.com",
+        "url": "https://github.com/babazulu35"
+    }],
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/babazulu35/Imagelay/LICENSE.txt"
+    }],
+    "bugs": "https://github.com/babazulu35/Imagelay/issues",
+    "homepage": "https://github.com/babazulu35/Imagelay",
+    "docs": "https://github.com/babazulu35/Imagelay",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}

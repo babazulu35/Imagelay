@@ -14,6 +14,12 @@
         closeOnOutsideClick: true
     });
 ```
+### Usage HTML Side ###
+```
+                    <div class="c-text-image__image" data-imagelay>
+                        <img src="assets/images/image-content-left.jpg" />
+                    </div>
+```
 
 ## Vendors ##
 
